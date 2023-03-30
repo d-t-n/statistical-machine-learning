@@ -43,5 +43,5 @@ The project would involve the following steps:
 - Analyze the results to determine the effectiveness of using probability distributions in machine learning applications.
 
 
-Overall, this project would provide students with an opportunity to develop a deeper understanding of probability distributions and their application in machine learning algorithms. It would also allow them to gain hands-on experience in implementing machine learning algorithms and applying probability distributions to real-world datasets.
+Overall, this project would provide an opportunity to develop a deeper understanding of probability distributions and their application in machine learning algorithms. It would also allow them to gain hands-on experience in implementing machine learning algorithms and applying probability distributions to real-world datasets.
 
