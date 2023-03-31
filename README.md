@@ -11,7 +11,7 @@ Unsupervised learning, on the other hand, is a type of machine learning in which
 
 In summary, supervised learning requires labeled data with known outputs, while unsupervised learning works with unlabeled data to identify patterns and relationships. Supervised learning is used for prediction tasks, while unsupervised learning is used for exploratory analysis and data mining.
 
-### Project on Common Probability Distributions in Machine Learning
+### Project 1: Common Probability Distributions in Machine Learning
 The objective of this project is to develop a understanding of probability distributions and their application in solving real-world problems using machine learning algorithms.
 The project would involve the following steps:
 
@@ -45,3 +45,25 @@ The project would involve the following steps:
 
 Overall, this project would provide an opportunity to develop a deeper understanding of probability distributions and their application in machine learning algorithms. It would also allow them to gain hands-on experience in implementing machine learning algorithms and applying probability distributions to real-world datasets.
 
+### Project 2: Predicting Housing Prices Using Supervised Learning Algorithms
+
+1. Problem Definition:
+The goal of this project is to build a machine learning model that can predict housing prices based on various features such as location, size, number of rooms, etc. This is an important problem in real estate as it can help both buyers and sellers make informed decisions about the value of a property.
+
+2. Data Gathering:
+The data for this project will be gathered from web open sources datasets such as Kaggle or UCI Machine Learning Repository. The dataset should include information about various properties such as location, size, number of rooms, number of bathrooms, age of the property, and the sale price. The data will need to be cleaned and preprocessed before modeling.
+
+3. Data Cleaning and Preparation:
+The data will need to be checked for missing or incorrect values and outliers. Any missing values should be imputed or dropped, and outliers should be dealt with appropriately. The data should also be normalized or standardized if necessary. Features that are not relevant to the prediction of housing prices should be removed.
+
+4. Modeling:
+Once the data is cleaned and prepared, several supervised learning algorithms can be used to build the prediction model. Some examples of algorithms that can be used include linear regression, decision trees, random forests, and gradient boosting. The model will need to be trained on a portion of the dataset and validated on a separate portion to avoid overfitting.
+
+5. Evaluation:
+The performance of the model will be evaluated using various metrics such as mean squared error, R-squared, and accuracy. The evaluation should be performed on a test set that the model has not seen before.
+
+6. Deployment and Visualization:
+Once the model has been trained and evaluated, it can be deployed to make predictions on new, unseen data. The predictions can be visualized using various tools such as scatter plots or heat maps to show the predicted prices compared to the actual prices. This can provide insights into the accuracy and effectiveness of the model.
+
+Conclusion:
+In summary, this project aims to build a machine learning model that can accurately predict housing prices based on various features. By following the steps of problem definition and understanding, data gathering, cleaning and preparation, modeling, evaluation, deployment and visualization, this project can help buyers and sellers make informed decisions about the value of a property.
