@@ -67,3 +67,5 @@ Once the model has been trained and evaluated, it can be deployed to make predic
 
 Conclusion:
 In summary, this project aims to build a machine learning model that can accurately predict housing prices based on various features. By following the steps of problem definition and understanding, data gathering, cleaning and preparation, modeling, evaluation, deployment and visualization, this project can help buyers and sellers make informed decisions about the value of a property.
+
+### Project 3: Clustering Analysis for Customer Segmentation - Unsupervised Learning
