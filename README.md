@@ -72,6 +72,7 @@ In summary, this project aims to build a machine learning model that can accurat
 
 ### Project 4: Housing Prices Prediction - Decision Trees and Random Forests (Kaggle)
 
+## Apply common probability distributions in machine learning applications
 Probability distributions are an essential concept in machine learning that helps us model and analyze the data. They describe the likelihood of a random variable taking on different values, and they provide a mathematical framework for understanding the data.
 
 Here are some common probability distributions used in machine learning applications:
