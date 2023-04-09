@@ -69,6 +69,29 @@ Conclusion:
 In summary, this project aims to build a machine learning model that can accurately predict housing prices based on various features. By following the steps of problem definition and understanding, data gathering, cleaning and preparation, modeling, evaluation, deployment and visualization, this project can help buyers and sellers make informed decisions about the value of a property.
 
 ### Project 3: Clustering Analysis for Customer Segmentation - Unsupervised Learning
+Project: Clustering Analysis for Customer Segmentation
+
+1. Problem Definition and Understanding:
+A retail company wants to segment its customers into different groups based on their purchasing behavior. The goal is to identify distinct customer segments with similar purchasing patterns, in order to tailor marketing strategies and improve customer satisfaction. To achieve this, the company has collected a dataset of customer purchase history, including the product categories, quantities, and prices of items purchased.
+
+2. Data Gathering, Cleaning and Preparation:
+The dataset can be obtained from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/online+retail). The data contains information on over 500,000 transactions made by customers of a UK-based online retail company during a period of one year. The data includes attributes such as customer ID, product ID, product description, quantity, unit price, and transaction date.
+
+To prepare the data for analysis, the following steps may be taken:
+
+Remove any duplicate records or transactions
+Remove any missing or invalid data
+Convert categorical variables (e.g., product description) into numerical variables using one-hot encoding
+Normalize or standardize the data to eliminate any differences in scale or range between the variables
+
+3. Modeling:
+The clustering algorithm used for this project will be k-means clustering. The k-means algorithm is an unsupervised learning algorithm that partitions the data into k distinct clusters based on the similarity of the data points.
+
+4. Evaluation:
+The performance of the clustering algorithm will be evaluated using the silhouette score. The silhouette score measures the similarity of a data point to its own cluster compared to other clusters, and ranges from -1 to 1, with higher values indicating better clustering.
+
+5. Deployment and Visualization:
+The results of the clustering analysis can be visualized using scatter plots or heat maps, with each data point colored according to its assigned cluster. The identified customer segments can then be used to develop targeted marketing strategies and improve customer satisfaction.
 
 ### Project 4: Housing Prices Prediction - Decision Trees and Random Forests (Kaggle)
 
