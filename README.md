@@ -122,3 +122,8 @@ In reinforcement learning, the rewards can be modeled by a Poisson or an exponen
 In conclusion, understanding and applying common probability distributions is crucial in machine learning applications to model and analyze the data accurately.
 
 
+## Use cross validation to select parameters
+
+
+
+
