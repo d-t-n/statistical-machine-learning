@@ -1,7 +1,7 @@
 # Statistical Machine Learning
  Investigation of data mining and statistical pattern recognition that support artificial intelligence. Main topics covered include supervised learning; unsupervised learning; and deep learning, including major components of machine learning and the data analytics that enable it
  
- ## Distinguish between supervised learning and unsupervised learning
+ ## 1. Distinguish between supervised learning and unsupervised learning
 
 Supervised learning and unsupervised learning are two major categories of machine learning algorithms, and they differ in terms of the type of input data they work with, the nature of the learning process, and the outcomes they produce.
 
@@ -11,7 +11,7 @@ Unsupervised learning, on the other hand, is a type of machine learning in which
 
 In summary, supervised learning requires labeled data with known outputs, while unsupervised learning works with unlabeled data to identify patterns and relationships. Supervised learning is used for prediction tasks, while unsupervised learning is used for exploratory analysis and data mining.
 
-### - Project 1: Applying Probability Distributions in Machine Learning - Logistic Regression
+### - 1.1 Project 1: Applying Probability Distributions in Machine Learning - Logistic Regression
 The objective of this project is to develop a understanding of probability distributions and their application in solving real-world problems using machine learning algorithms.
 The project would involve the following steps:
 
@@ -45,7 +45,7 @@ The project would involve the following steps:
 
 Overall, this project would provide an opportunity to develop a deeper understanding of probability distributions and their application in machine learning algorithms. It would also allow them to gain hands-on experience in implementing machine learning algorithms and applying probability distributions to real-world datasets.
 
-### - Project 2: Predicting housing prices with supervised learning - Linear Regression
+### - 1.2 Project 2: Predicting housing prices with supervised learning - Linear Regression
 
 1. Problem Definition:
 The goal of this project is to build a machine learning model that can predict housing prices based on various features such as location, size, number of rooms, etc. This is an important problem in real estate as it can help both buyers and sellers make informed decisions about the value of a property.
@@ -68,7 +68,7 @@ Once the model has been trained and evaluated, it can be deployed to make predic
 Conclusion:
 In summary, this project aims to build a machine learning model that can accurately predict housing prices based on various features. By following the steps of problem definition and understanding, data gathering, cleaning and preparation, modeling, evaluation, deployment and visualization, this project can help buyers and sellers make informed decisions about the value of a property.
 
-### - Project 3: Clustering Analysis for Customer Segmentation - Unsupervised Learning
+### - 1.3 Project 3: Clustering Analysis for Customer Segmentation - Unsupervised Learning
 Project: Clustering Analysis for Customer Segmentation
 
 1. Problem Definition and Understanding:
@@ -93,10 +93,10 @@ The performance of the clustering algorithm will be evaluated using the silhouet
 5. Deployment and Visualization:
 The results of the clustering analysis can be visualized using scatter plots or heat maps, with each data point colored according to its assigned cluster. The identified customer segments can then be used to develop targeted marketing strategies and improve customer satisfaction.
 
-### - Project 4: Housing Prices Prediction - Decision Trees and Random Forests (Kaggle)
+### - 1.4 Project 4: Housing Prices Prediction - Decision Trees and Random Forests (Kaggle)
 Decision Trees and Random Forests project from Kaggle
 
-## Apply common probability distributions in machine learning applications
+## 2. Apply common probability distributions in machine learning applications
 Probability distributions are an essential concept in machine learning that helps us model and analyze the data. They describe the likelihood of a random variable taking on different values, and they provide a mathematical framework for understanding the data.
 
 Here are some common probability distributions used in machine learning applications:
@@ -121,6 +121,28 @@ In classification problems, the class probabilities can be modeled by a binomial
 In clustering problems, the distribution of the data points can be modeled by a mixture of normal distributions.
 In reinforcement learning, the rewards can be modeled by a Poisson or an exponential distribution.
 In conclusion, understanding and applying common probability distributions is crucial in machine learning applications to model and analyze the data accurately.
+
+
+## 2.1 Project
+Here is an outline of what the project will cover:
+
+Introduction: In this section, we will introduce the concept of probability distributions and their importance in machine learning applications. We will also provide an overview of the common probability distributions used in machine learning.
+
+Normal Distribution: In this section, we will discuss the normal distribution and its properties. We will also provide examples of how the normal distribution is used in machine learning.
+
+Bernoulli Distribution: In this section, we will discuss the Bernoulli distribution and its properties. We will also provide examples of how the Bernoulli distribution is used in machine learning.
+
+Binomial Distribution: In this section, we will discuss the binomial distribution and its properties. We will also provide examples of how the binomial distribution is used in machine learning.
+
+Poisson Distribution: In this section, we will discuss the Poisson distribution and its properties. We will also provide examples of how the Poisson distribution is used in machine learning.
+
+Exponential Distribution: In this section, we will discuss the exponential distribution and its properties. We will also provide examples of how the exponential distribution is used in machine learning.
+
+Beta Distribution: In this section, we will discuss the beta distribution and its properties. We will also provide examples of how the beta distribution is used in machine learning.
+
+Applications of Probability Distributions in Machine Learning: In this section, we will provide examples of how probability distributions are used in various machine learning applications, such as Bayesian inference, regression analysis, classification problems, clustering problems, and reinforcement learning.
+
+Conclusion: In this section, we will summarize the key points of the project and emphasize the importance of understanding and applying common probability distributions in machine learning.
 
 
 ## Use cross validation to select parameters
