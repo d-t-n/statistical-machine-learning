@@ -9,3 +9,21 @@ customer_id,gender,age,region,phone_service,internet_service,contract_type,payme
 8,Female,56,South,Yes,Fiber optic,Month-to-month,Electronic check,95.00,7,Yes
 9,Male,34,West,Yes,DSL,Month-to-month,Electronic check,50.00,2,Yes
 10,Female,23,North,No,No,Month-to-month,Electronic check,20.00,1,Yes
+11,Male,44,West,Yes,Fiber optic,One year,Credit card (automatic),80.00,12,No
+12,Female,31,North,Yes,DSL,Month-to-month,Electronic check,55.00,8,Yes
+13,Male,25,East,Yes,Fiber optic,Month-to-month,Electronic check,75.00,3,Yes
+14,Female,61,South,No,No,Two year,Credit card (automatic),20.00,48,No
+15,Male,55,West,Yes,DSL,One year,Credit card (automatic),50.00,42,No
+16,Female,43,North,Yes,Fiber optic,Month-to-month,Electronic check,85.00,10,Yes
+17,Male,46,East,Yes,Fiber optic,One year,Electronic check,90.00,11,Yes
+18,Female,21,South,No,No,Month-to-month,Electronic check,20.00,1,Yes
+19,Male,36,West,Yes,DSL,Month-to-month,Electronic check,55.00,4,Yes
+20,Female,27,North,Yes,Fiber optic,Month-to-month,Electronic check,75.00,5,Yes
+21,Male,53,East,Yes,Fiber optic,Two year,Credit card (automatic),105.00,52,No
+22,Female,45,South,Yes,DSL,One year,Credit card (automatic),50.00,33,No
+23,Male,30,West,No,No,Month-to-month,Electronic check,20.00,1,Yes
+24,Female,57,North,Yes,Fiber optic,Month-to-month,Electronic check,85.00,13,Yes
+25,Male,38,East,Yes,Fiber optic,One year,Electronic check,90.00,8,Yes
+26,Female,50,South,Yes,DSL,Two year,Bank transfer (automatic),45.00,58,No
+27,Male,33,West,Yes,Fiber optic,Month-to-month,Electronic check,85.00,3,Yes
+28,Female,24,North,Yes,Fiber optic,Month-to-month,Electronic check,75.00,4,Yes
