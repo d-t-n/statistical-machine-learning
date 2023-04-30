@@ -1,4 +1,4 @@
-customer_id,gender,age,region,phone_service,internet_service,contract_type,payment_method,monthly_charge,tenure,churn
+customer_id,gender,age,region,phone_service,internet_service,contract_type,payment_method,monthly_charge,tenure,Churn
 1,Male,32,West,Yes,DSL,One year,Credit card (automatic),55.00,8,No
 2,Female,22,North,Yes,Fiber optic,Month-to-month,Electronic check,85.00,4,Yes
 3,Male,41,East,No,No,Month-to-month,Mailed check,20.00,1,Yes
