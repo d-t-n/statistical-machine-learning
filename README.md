@@ -190,4 +190,15 @@ In conclusion, this project applies cross-validation to select the best hyperpar
 
 Code in 3-project.ipynb file
 
+## 4. Use maximum likelihood estimate (MLE) for parameter estimation
+Maximum likelihood estimate (MLE) is a statistical method used in machine learning to estimate the parameters of a statistical model. It involves finding the parameter values that maximize the likelihood of the observed data given the model. In other words, MLE determines the values of the model's parameters that make the data most probable.
+
+In machine learning, MLE is often used for parameter estimation in models such as regression, classification, and clustering. The goal of these models is to learn the underlying patterns in the data and use them to make predictions on new, unseen data. MLE provides a method for estimating the optimal parameters of these models based on the observed data.
+
+The importance of MLE in machine learning lies in its ability to estimate the most likely values of the model's parameters, given the observed data. This is crucial for building accurate and reliable models that can generalize well to new data. By optimizing the likelihood function, MLE ensures that the model's parameters are adjusted to fit the data as closely as possible, while also avoiding overfitting or underfitting.
+
+Moreover, MLE is a widely used method in machine learning because it provides a straightforward and computationally efficient way of estimating model parameters. It also has a solid theoretical foundation, and its properties are well understood, which makes it a reliable and trusted method for parameter estimation.
+
+In summary, MLE is a powerful statistical method that plays a vital role in machine learning by providing a way to estimate the optimal parameters of a model based on the observed data. Its importance lies in its ability to improve the accuracy and reliability of machine learning models, making them more effective in solving real-world problems.
+
 
