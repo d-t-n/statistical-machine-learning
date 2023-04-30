@@ -1,0 +1,11 @@
+customer_id,gender,age,region,phone_service,internet_service,contract_type,payment_method,monthly_charge,tenure,churn
+1,Male,32,West,Yes,DSL,One year,Credit card (automatic),55.00,8,No
+2,Female,22,North,Yes,Fiber optic,Month-to-month,Electronic check,85.00,4,Yes
+3,Male,41,East,No,No,Month-to-month,Mailed check,20.00,1,Yes
+4,Female,54,South,Yes,DSL,Two year,Credit card (automatic),45.00,56,No
+5,Male,66,West,Yes,Fiber optic,One year,Bank transfer (automatic),100.00,29,Yes
+6,Female,32,North,Yes,DSL,Month-to-month,Electronic check,65.00,14,Yes
+7,Male,45,East,No,No,Two year,Bank transfer (automatic),20.00,48,No
+8,Female,56,South,Yes,Fiber optic,Month-to-month,Electronic check,95.00,7,Yes
+9,Male,34,West,Yes,DSL,Month-to-month,Electronic check,50.00,2,Yes
+10,Female,23,North,No,No,Month-to-month,Electronic check,20.00,1,Yes
