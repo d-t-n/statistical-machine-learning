@@ -155,34 +155,24 @@ Cross-validation is important because it helps prevent overfitting of the model 
 In summary, cross-validation is a powerful tool for selecting the best hyperparameters for a machine learning model. By using cross-validation, we can improve the model's performance on new, unseen data and reduce the risk of overfitting.
 
 ### 3.1 Project
-Project Title: Predicting Customer Churn in Telecom Industry using Random Forest and Cross-Validation
+Project Title: Predicting Customer Churn in Telecom Industry
 
-Project Overview:
+Project Overview (Kaggle):
 
-The aim of this project is to develop a model that can predict customer churn in the telecom industry. The dataset used in this project contains information about customers' demographic information, service usage, and their churn status. We will use a Random Forest classifier to train our model, and use cross-validation to select the best hyperparameters for our model.
+The aim of this project is to develop a model that can predict customer churn in the telecom industry. The dataset used in this project contains information about customers' demographic information, service usage, and their churn status. 
 
 Subtopics:
 
-Data Preprocessing
-Random Forest Classifier
-Cross-Validation
-Hyperparameter Tuning
-Model Evaluation
-Explanation:
+- Business Problem
+- Exploratory Data Analysis
+- Data Preprocessing & Feature Engineering
+- Modelling
 
-Data Preprocessing: In this step, we will clean the dataset, check for missing values, and perform feature scaling if required. We will also perform one-hot encoding for categorical features, and split the dataset into training and testing sets.
 
-Random Forest Classifier: Random Forest is an ensemble learning algorithm that builds multiple decision trees and combines them to make predictions. In this step, we will train a Random Forest classifier on the training dataset. We will use the default hyperparameters for the classifier.
+Data Preprocessing & Feature Engineering: In this step, we will clean the dataset, check for missing values, and perform feature scaling if required. We will also perform one-hot encoding for categorical features, and split the dataset into training and testing sets.
 
 Cross-Validation: Cross-validation is a technique used to evaluate the performance of a model by dividing the dataset into k-folds, training the model on k-1 folds, and testing it on the remaining fold. This process is repeated k times, with each fold being used as the test set once. We will use 10-fold cross-validation to evaluate our model's performance.
 
-Hyperparameter Tuning: Hyperparameters are parameters that are set before training a model and can have a significant impact on the model's performance. In this step, we will use cross-validation to select the best hyperparameters for our model. We will tune the following hyperparameters:
-
-n_estimators: The number of decision trees in the forest
-max_depth: The maximum depth of each decision tree
-min_samples_split: The minimum number of samples required to split an internal node
-min_samples_leaf: The minimum number of samples required to be at a leaf node
-Model Evaluation: In this step, we will evaluate the performance of our model on the test dataset. We will calculate metrics such as accuracy, precision, recall, and F1-score to measure the model's performance.
 
 Conclusion:
 
