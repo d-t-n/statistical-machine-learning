@@ -191,4 +191,24 @@ Moreover, MLE is a widely used method in machine learning because it provides a 
 
 In summary, MLE is a powerful statistical method that plays a vital role in machine learning by providing a way to estimate the optimal parameters of a model based on the observed data. Its importance lies in its ability to improve the accuracy and reliability of machine learning models, making them more effective in solving real-world problems.
 
+### 4.1 Project: Maximum Likelihood Estimate (MLE) for parameter estimation in machine learning - Optimal Dosage of Drug
+One real-life applied project that involves the use of maximum likelihood estimate (MLE) for parameter estimation in machine learning is the development of drug dosage estimator.
 
+Business Understanding:
+A pharmaceutical company has developed a new drug that is supposed to lower blood pressure in patients. They need to determine the optimal dosage of the drug to achieve the desired effect while minimizing any potential side effects. They have conducted a clinical trial with a sample of patients, and they want to use machine learning to estimate the optimal dosage.
+
+Data Understanding:
+The company has collected data from a clinical trial conducted on a sample of patients. The dataset contains the patient's age, gender, weight, and blood pressure measurements before and after taking the drug. The data is in a CSV file, and it is clean and ready for analysis.
+
+Data Preparation:
+The data needs to be split into training and testing sets. The training set will be used to train the machine learning model, while the testing set will be used to evaluate the performance of the model. We will use the scikit-learn library to split the data.
+
+Modeling:
+We will use the Maximum Likelihood Estimate (MLE) to estimate the parameters of a linear regression model. The linear regression model will predict the change in blood pressure based on the patient's age, gender, weight, and the dosage of the drug. The MLE will estimate the optimal values for the model parameters that maximize the likelihood of observing the training data. We will use the statsmodels library to perform the MLE.
+
+Evaluation:
+We will evaluate the performance of the model on the testing set using the mean squared error (MSE) metric. The MSE measures the average squared difference between the predicted and actual blood pressure measurements in the testing set. We will compare the MSE of the linear regression model with the MSE of a baseline model that always predicts the mean blood pressure measurement in the training set.
+
+Code in 4-project.ipynb
+
+# 5. 
