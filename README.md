@@ -123,7 +123,7 @@ In reinforcement learning, the rewards can be modeled by a Poisson or an exponen
 In conclusion, understanding and applying common probability distributions is crucial in machine learning applications to model and analyze the data accurately.
 
 
-## 2.1 Project
+### 2.1 Project
 Here is an outline of what the project will cover:
 
 Introduction: In this section, we will introduce the concept of probability distributions and their importance in machine learning applications. We will also provide an overview of the common probability distributions used in machine learning.
@@ -211,4 +211,15 @@ We will evaluate the performance of the model on the testing set using the mean 
 
 Code in 4-project.ipynb
 
-# 5. 
+## 5. Implement fundamental learning algorithms such as logistic regression and k-means clustering
+
+Logistic regression is a popular classification algorithm used to predict binary or categorical outcomes. It works by estimating the probability of an outcome based on a set of input features. The algorithm optimizes a cost function to find the parameters that best fit the data. Logistic regression is widely used in many fields, including healthcare, finance, and marketing.
+
+K-means clustering is a type of unsupervised learning algorithm used to group data points into clusters based on their similarities. The algorithm iteratively partitions the data into k clusters by minimizing the sum of squared distances between each data point and the centroid of its assigned cluster. K-means clustering is commonly used in image segmentation, customer segmentation, and anomaly detection.
+
+To implement these fundamental learning algorithms, one needs to have a strong understanding of the underlying mathematical concepts and the ability to code them from scratch. The first step is to preprocess the data by cleaning and normalizing it. Then, the data can be split into training and testing sets. The logistic regression and k-means clustering models can be trained using the training data. Once trained, the models can be evaluated using the testing data to determine their performance.
+
+In addition to coding from scratch, there are also many open-source libraries available for logistic regression and k-means clustering. For example, scikit-learn is a popular Python library that provides implementations of these algorithms and other machine learning models.
+
+In conclusion, implementing fundamental learning algorithms such as logistic regression and k-means clustering is essential for building a strong foundation in machine learning. These algorithms are widely used and form the basis for more complex models. It is important to have a deep understanding of these algorithms and the ability to implement them from scratch.
+
