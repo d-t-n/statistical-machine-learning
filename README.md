@@ -223,3 +223,17 @@ In addition to coding from scratch, there are also many open-source libraries av
 
 In conclusion, implementing fundamental learning algorithms such as logistic regression and k-means clustering is essential for building a strong foundation in machine learning. These algorithms are widely used and form the basis for more complex models. It is important to have a deep understanding of these algorithms and the ability to implement them from scratch.
 
+### 5.1 Project: E-commerce classification
+
+Business understanding:
+Suppose we are working for an e-commerce company that sells a wide range of products. The company wants to identify the customer segments that are most likely to purchase a new product line they are introducing. To achieve this, the company needs a model that can classify customers into different segments based on their purchase history and demographics.
+
+Data understanding:
+We have access to the company's customer transaction database, which includes the customer demographics (age, gender, income, etc.) and the products they have purchased in the past. We also have some additional data from third-party sources, such as social media activity and online search history, that can be used to enrich the customer profiles. The data is relatively clean but requires some preprocessing, such as removing missing values and scaling the numerical features.
+
+Data preparation:
+We will use Python and the scikit-learn library to prepare and model the data. We will start by cleaning and scaling the data using the StandardScaler from the preprocessing module. Then, we will use the KMeans algorithm from the cluster module to group the customers into different segments based on their purchase history and demographics. Finally, we will use the logistic regression algorithm from the linear_model module to predict which customer segments are most likely to purchase the new product line.
+
+Modeling:
+We will start by using the KMeans algorithm to cluster the customers based on their purchase history and demographics. We will use the elbow method to determine the optimal number of clusters. Once we have the clusters, we will use the logistic regression algorithm to predict which customer segments are most likely to purchase the new product line. We will use the accuracy metric to evaluate the performance of the model.
+
