@@ -237,3 +237,7 @@ We will use Python and the scikit-learn library to prepare and model the data. W
 Modeling:
 We will start by using the KMeans algorithm to cluster the customers based on their purchase history and demographics. We will use the elbow method to determine the optimal number of clusters. Once we have the clusters, we will use the logistic regression algorithm to predict which customer segments are most likely to purchase the new product line. We will use the accuracy metric to evaluate the performance of the model.
 
+Code in 5-project.ipynb
+
+
+
