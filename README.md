@@ -239,5 +239,7 @@ We will start by using the KMeans algorithm to cluster the customers based on th
 
 Code in 5-project.ipynb
 
+## 6. Implement more advanced learning algorithms such as support vector machines and convolutional neural networks
+
 
 
