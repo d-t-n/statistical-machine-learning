@@ -254,5 +254,40 @@ CNNs have several advantages over traditional image recognition techniques, incl
 
 In summary, SVMs and CNNs are more advanced learning algorithms that can be used to solve complex machine learning and artificial intelligence problems. These algorithms have unique advantages and limitations that should be carefully considered when selecting the appropriate algorithm for a given application.
 
+### 6.1 Project 1
+Project 1: Support Vector Machines (SVMs) in Credit Risk Analysis
+
+Business understanding – A financial institution wants to minimize the risk of loan default by identifying high-risk borrowers.
+
+Data understanding – The institution has a dataset containing the financial and personal information of past borrowers, including credit score, income, age, and loan status.
+
+Data preparation – We will pre-process the data by removing missing values and standardizing the numerical features. We will also encode the categorical features using one-hot encoding.
+
+Modeling – We will apply SVMs to classify borrowers into high and low-risk categories. We will experiment with different kernel functions and regularization parameters to optimize the model's performance.
+
+Evaluation – We will evaluate the SVM model using metrics such as accuracy, precision, recall, and F1-score. We will also compare the SVM model's performance to other classification algorithms such as logistic regression and decision trees.
+
+Code in 6-1project.ipynb
+
+### 6.2 Project 2
+Project 2: Convolutional Neural Networks (CNNs) in Medical Image Analysis
+
+Business understanding – A medical research institute wants to develop an automated system to detect lung cancer in CT scans.
+
+Data understanding – The institute has a dataset of CT scans labeled as either cancerous or non-cancerous.
+
+Data preparation – We will preprocess the data by normalizing the pixel values and resizing the images to a uniform size. We will also split the data into training, validation, and test sets.
+
+Modeling – We will apply a CNN to the image dataset to classify the CT scans as cancerous or non-cancerous. We will experiment with different CNN architectures and hyperparameters to optimize the model's performance.
+
+Evaluation – We will evaluate the CNN model's performance using metrics such as accuracy, precision, recall, and F1-score. We will also compare the CNN model's performance to other image classification algorithms such as SVMs and decision trees.
+
+Code in 6-2project.ipynb
+
+
+
+
+
+
 
 
