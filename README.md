@@ -314,6 +314,7 @@ Hyperparameters, such as learning rate, batch size, and the number of layers or 
 After training the model and achieving satisfactory performance on the validation set, it is essential to evaluate the model on an independent test set. This evaluation provides an unbiased estimate of the network's real-world performance and ensures its generalization capabilities.
 Once the model meets the desired criteria, it can be deployed in an autonomous vehicle system. The model will process the input from the vehicle's cameras in real-time, detecting and classifying objects, and providing relevant information 
 
+Code in 7-project.ipynb
 
 
 
