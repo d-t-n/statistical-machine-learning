@@ -316,6 +316,7 @@ Once the model meets the desired criteria, it can be deployed in an autonomous v
 
 Code in 7-project.ipynb
 
+## 8. Apply key techniques employed in building deep learning architectures
 
 
 
