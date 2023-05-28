@@ -341,7 +341,7 @@ Key techniques employed in building deep learning architectures. Deep learning h
 
 These are some of the key techniques employed in building deep learning architectures. It's important to note that the field of deep learning is constantly evolving, and new techniques and advancements are being introduced regularly. As a deep learning practitioner, staying updated with the latest research and experimenting with different techniques is crucial to build state-of-the-art models.
 
-Project Code in 8-project.ipynb
+Project code in 8-project.ipynb
 
 
 
