@@ -1,5 +1,6 @@
 # Statistical Machine Learning
- Investigation of data mining and statistical pattern recognition that support artificial intelligence. Main topics covered include supervised learning; unsupervised learning; and deep learning, including major components of machine learning and the data analytics that enable it
+ Investigation of data mining and statistical pattern recognition that support artificial intelligence. Main topics covered include supervised learning; unsupervised learning; and deep learning, including major components of machine learning and the data analytics that enable it.
+ 
  
  ## 1. Distinguish between supervised learning and unsupervised learning
 
@@ -96,6 +97,7 @@ The results of the clustering analysis can be visualized using scatter plots or 
 ### - 1.4 Project 4: Housing Prices Prediction - Decision Trees and Random Forests (Kaggle)
 Decision Trees and Random Forests project from Kaggle
 
+
 ## 2. Apply common probability distributions in machine learning applications
 Probability distributions are an essential concept in machine learning that helps us model and analyze the data. They describe the likelihood of a random variable taking on different values, and they provide a mathematical framework for understanding the data.
 
@@ -180,6 +182,7 @@ In conclusion, this project applies cross-validation to select the best hyperpar
 
 Code in 3-project.ipynb file
 
+
 ## 4. Use maximum likelihood estimate (MLE) for parameter estimation
 Maximum likelihood estimate (MLE) is a statistical method used in machine learning to estimate the parameters of a statistical model. It involves finding the parameter values that maximize the likelihood of the observed data given the model. In other words, MLE determines the values of the model's parameters that make the data most probable.
 
@@ -211,6 +214,7 @@ We will evaluate the performance of the model on the testing set using the mean 
 
 Code in 4-project.ipynb
 
+
 ## 5. Implement fundamental learning algorithms such as logistic regression and k-means clustering
 
 Logistic regression is a popular classification algorithm used to predict binary or categorical outcomes. It works by estimating the probability of an outcome based on a set of input features. The algorithm optimizes a cost function to find the parameters that best fit the data. Logistic regression is widely used in many fields, including healthcare, finance, and marketing.
@@ -238,6 +242,7 @@ Modeling:
 We will start by using the KMeans algorithm to cluster the customers based on their purchase history and demographics. We will use the elbow method to determine the optimal number of clusters. Once we have the clusters, we will use the logistic regression algorithm to predict which customer segments are most likely to purchase the new product line. We will use the accuracy metric to evaluate the performance of the model.
 
 Code in 5-project.ipynb
+
 
 ## 6. Implement more advanced learning algorithms such as support vector machines and convolutional neural networks
 Support vector machines (SVMs) and Convolutional Neural Networks (CNNs) are more advanced learning algorithms that are commonly used in machine learning and artificial intelligence applications.
@@ -284,6 +289,7 @@ Evaluation – We will evaluate the CNN model's performance using metrics such a
 
 Code in 6-2project.ipynb
 
+
 ## 7. Design a deep network using an exemplar application to solve a specific problem
 
 Designing a deep network involves creating a complex computational model that learns hierarchical representations of data to solve a specific problem. To illustrate this process, let's consider an exemplar application: image recognition for autonomous vehicle navigation. In this scenario, the goal is to design a deep network that can accurately identify and classify objects in real-time, enabling the vehicle to make informed decisions while on the road.
@@ -315,6 +321,7 @@ After training the model and achieving satisfactory performance on the validatio
 Once the model meets the desired criteria, it can be deployed in an autonomous vehicle system. The model will process the input from the vehicle's cameras in real-time, detecting and classifying objects, and providing relevant information 
 
 Code in 7-project.ipynb
+
 
 ## 8. Apply key techniques employed in building deep learning architectures
 Key techniques employed in building deep learning architectures. Deep learning has revolutionized the field of artificial intelligence by enabling machines to automatically learn representations of data and perform complex tasks with remarkable accuracy. Here are some fundamental techniques that are commonly used in building deep learning architectures:
